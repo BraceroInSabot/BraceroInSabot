@@ -3,20 +3,23 @@
 
 ## E aí, como vai?
 
-#### Eu sou Guilherme Bracero Gonzales, tenho 18 anos, sou iniciante na área da programação
+#### Eu sou Guilherme Bracero Gonzales, tenho 18 anos, e estou a procura por um estágio
 
 
-- 😪 Estou desempregado;
+- 🐍 Minha linguagem favorita é **Python**;
 
-- 🐍 Estudo Python, sei usar Git e estou conhecendo novas linguagens de programação como HTML;
+- 🦎 Atualmente estudo sobre **Django** e API's;
+
+- 🐘 Banco de dados: tenho favoritismo por **PostgreSQL**;
  
-- 🔎 Estou procurando por vaga de estágio para poder ingressar na área;
+- 🔎 Estou procurando por vaga de estágio preferencialmente na área de **Back-end**;
 
-- 📩 Para me contatar é simples, guibragon@gmail.com, me manda um salve lá!;
+- 📩 E-mail: **guibragon@gmail.com**;
 
 - ♊ Ele/dele;
  
-- ⚡ Fato curioso: Estou cursando Direito, porém, não é do meu interesse trabalhar com a área agora (nem depois).
+
+⚡ **Estou sempre buscando evoluir** ⚡
 
 <div>
     <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=vision-friendly-dark&icon_color=d98921)">
