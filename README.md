@@ -17,7 +17,12 @@
 - ♊ Ele/dele;
  
 - ⚡ Fato curioso: Estou cursando Direito, porém, não é do meu interesse trabalhar com a área agora (nem depois).
- 
+
+<div>
+    <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=vision-friendly-dark&icon_color=d98921)">
+    
+</div>
+
 ---
 
 # US-ENG
@@ -41,10 +46,7 @@
 
 ---
 
-<div>
-    <img height="300cm" src="https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=vision-friendly-dark&icon_color=d98921)">
-    
-</div>
+
     
 <!--
 **BraceroInSabot/BraceroInSabot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
