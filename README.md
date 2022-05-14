@@ -12,7 +12,7 @@
 
 - 🐘 Banco de dados: tenho favoritismo por **PostgreSQL**;
  
-- 🔎 Estou procurando por vaga de estágio preferencialmente na área de **Back-end**;
+- 🔎 Buscando evoluir sempre
 
 - 📩 E-mail: **guibragon@gmail.com**;
 
