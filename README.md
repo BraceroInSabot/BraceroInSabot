@@ -1,6 +1,14 @@
 <img align="right" height="100%" widht="100%" src="Rectanglegithub.svg"/>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - 🔎 Looking for an oportunity, internship or junior
 
