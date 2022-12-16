@@ -1,28 +1,16 @@
 <img align="right" height="100%" widht="100%" src="Rectanglegithub.svg"/>
 
-<!-- No idea why that much breaklines, a bug I guess. -->
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
-- Looking for an oportunity, internship or junior
+- 🔎 Looking for an oportunity, internship or junior
 
-- Meanwhile, I'm a curious student
+- 📚 Meanwhile, I'm a curious student
 
-- Currenctly Organizing my repo's
+- 🧹 Currenctly Organizing my repo's
 
-- He / Him / His
+- 🙍‍♂️ He / Him / His
 
-- [Contacts](#social-medias)
+- 📞 [Contacts](#social-medias)
 
 <br>
 
