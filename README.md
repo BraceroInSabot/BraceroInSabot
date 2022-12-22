@@ -1,13 +1,17 @@
 <img align="right" height="100%" widht="100%" src="Rectanglegithub.svg"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+```yml
+experience: 0.0
+
+services:
+    freelas:
+        build:
+            context: build/websites/.
+            freelance: yes/Freelance
+        command: /chat
+        preferred_social: email
+```
+
 <br>
 
 - 🔎 Looking for an oportunity, internship or junior
