@@ -3,13 +3,9 @@
 ### 🚀 Sobre mim [PT-BR]
 Sou um **entusiasta de Ciência de Dados** e **Machine Learning**, focado em explorar insights a partir de dados. Este repositório serve como um **arquivo de projetos antigos e novos** que desenvolvi ao longo dos anos. Portanto, alguns projetos podem estar sem a devida documentação.
 
-🔗 **Nota:** Para explorar meus projetos mais recentes e detalhados, visite meu perfil no [Kaggle](https://www.kaggle.com/guilhermebracero) 🌟
-
 ### 🚀 About me [ENG-US]
 
 I am a **Data Scientist** and **Machine Learning** enthusiast, focused on explore insights throug data. This repository is a mix of old and newer project developed by me throug the year. So, some of they may not have the respectly documentation.
-
-🔗 **Note:** If you are aiming to explore some new and interesting projects of mine, take a look at my profile on [Kaggle](https://www.kaggle.com/guilhermebracero) 🌟
 
 ---
 
@@ -47,16 +43,3 @@ Here are some projects you might find interesting on my Kaggle or GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraceroInSabot&layout=compact&theme=radical)
-
----
-
-## 📢 Aviso! [PT-BR]
-Este GitHub é um repositório de projetos **experimentais** e **arquivos históricos**. Para ver meus trabalhos mais recentes e aprofundados, recomendo visitar meu perfil no **[Kaggle](https://www.kaggle.com/guilhermebracero)**.
-
-Obrigado por visitar meu perfil! 😁
-
-
-## 📢 Warning! [ENG-US]
-This GitHub is a repo of experimentals and old projects. So, I insist to reenforce, to see my most recent and well done projects, I highly recommend to take a look at **[Kaggle](https://www.kaggle.com/guilhermebracero)**.
-
-Thanks a lot to visit my profile! 😁
