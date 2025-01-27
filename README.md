@@ -1,45 +1,29 @@
-# 👋 Bem-vindo ao meu GitHub!
+# 👋 Bem-vindo(a)!
 
-### 🚀 Sobre mim [PT-BR]
-Sou um **entusiasta de Ciência de Dados** e **Machine Learning**, focado em explorar insights a partir de dados. Este repositório serve como um **arquivo de projetos antigos e novos** que desenvolvi ao longo dos anos. Portanto, alguns projetos podem estar sem a devida documentação.
-
-### 🚀 About me [ENG-US]
-
-I am a **Data Scientist** and **Machine Learning** enthusiast, focused on explore insights throug data. This repository is a mix of old and newer project developed by me throug the year. So, some of they may not have the respectly documentation.
+Aqui você encontra projetos relacionados à Engenharia de Dados que desenvolvi ao longo do tempo, unindo criatividade e eficiência em soluções práticas. Este espaço é tanto um arquivo de projetos antigos quanto recentes, refletindo minha evolução na área. 
 
 ---
 
-## 📂 Projetos em Destaque [PT-BR]
+## 🚀 Sobre Mim
 
-Aqui estão alguns projetos que podem te interessar caso você explore o meu Kaggle ou Github:
+Sou um **Engenheiro de Dados** com paixão por **automatização de processos**, **manipulação de dados**, **manutenção e criação de pipelines** e **Modelagem de dados**. Meu foco é entregar soluções otimizadas e de impacto real no mundo dos dados. 🧩
 
-- 📊 **Análise Exploratória**: Insights acionáveis a partir de conjuntos de dados complexos.
-- 🤖 **Modelagem Preditiva**: Aplicações práticas de Machine Learning em problemas do mundo real.
-- 🗂️ **Projetos Diversos**: Scripts e utilitários desenvolvidos em Python para automação e análise.
-
-➡️ Explore a aba **Repositórios** ou acesse o meu perfil no Kaggle para conferir todos os projetos!
-
-## 📂 Featured Projects [ENG-US]
-
-Here are some projects you might find interesting on my Kaggle or GitHub:
-
-- 📊 **Exploratory Data Analysis**: Actionable insights from complex datasets.
-- 🤖 **Predictive Modeling**: Practical applications of Machine Learning to solve real-world problems.
-- 🗂️ **Various Projects**: Python scripts and utilities for automation and data analysis.
-
-➡️ Explore the **Repositories** tab or visit my Kaggle profile to check out all my projects!
-
+[Ver Projetos](https://github.com/BraceroInSabot/Engenharia-de-Dados/tree/main)
 
 ---
 
-## 🌐 Onde me Encontrar / Where you can find me
+## 🌐 **Onde me Encontrar**
 
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-00457C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/guilhermebracero)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bracero/)
 
 ---
 
-## 📈 Estatísticas do GitHub / Github stats
+## 📈 **Estatísticas do GitHub**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraceroInSabot&layout=compact&theme=radical)
+
+---
+
+➡️ **Dúvidas ou sugestões?** Sinta-se à vontade para explorar e contribuir com ideias ou melhorias! 💡
