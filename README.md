@@ -1,47 +1,31 @@
-# 👋 Bem-vindo(a)!
+# 👋 Hey there, I'm Guilherme!
+Architect of modern solutions. Building robust APIs and modern web applications from São Paulo, Brazil.
 
-Este repositório é uma vitrine de projetos que desenvolvi ao longo da minha jornada, focando em soluções práticas nas áreas de **Engenharia de Dados** e **Desenvolvimento Web com Django**.
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
+![SQL](https://img.shields.io/badge/Query-SQL-informational?style=flat&logo=postgresql&color=4169E1)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
+![Tailwind](https://img.shields.io/badge/Style-Tailwind_CSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![DaisyUI](https://img.shields.io/badge/UI-DaisyUI-informational?style=flat&logo=daisyui&color=5A0EF8)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
+![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&color=150458)
 
----
+I specialize in crafting scalable, secure, and high-performance solutions—bridging the gap between Data Engineering and Full-Stack Development. My work blends rigorous back-end logic with intuitive user experiences, turning complex system requirements into elegant software.
 
-## 🚀 Sobre Mim
+🔭 Currently developing **ArquiVia**, a corporate document management SaaS with granular permissions and rich-text editing.
 
-Sou um profissional com projetos que se baseiam em:
+🌱 Continuously refining my skills in **Software Architecture**, **Data Modeling**, and **System Optimization**.
 
-- 🔧 **Desenvolvimento Back-End com Django**
-- ⚙️ **Criação e manutenção de APIs RESTful**
-- 🛠️ **Automação de processos e rotinas com Python**
-- 🗄️ **Modelagem de dados e integração com bancos relacionais (PostgreSQL, MySQL)**
-- 🌐 **front-end** usando HTML, CSS e JavaScript (React && Solid).
-
-Minha missão é entregar projetos **otimizados, escaláveis e seguros** — unindo o mundo do desenvolvimento ao universo dos dados.
-
-[Ver Projetos](https://github.com/BraceroInSabot/Engenharia-de-Dados/tree/main)
-
----
-
-## 🌐 Onde Me Encontrar
-
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-00457C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/guilhermebracero)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-bracero/)
+🚀 Dedicated to writing clean, maintainable code and fostering a culture of technical excellence.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraceroInSabot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraceroInSabot&layout=compact&theme=radical)
-
----
-
-## 💼 Destaques Técnicos
-
-- **Python** – principal linguagem para automações, ETL e back-end com Django.
-- **Django** – experiência com views baseadas em classes (CBV), autenticação, permissões, forms e admin customizado.
-- **SQL** – modelagem relacional, normalização e consultas complexas.
-- **HTML, CSS, JavaScript** – colaboração com equipes front-end.
-- **Git** – versionamento de código com foco em boas práticas.
-
----
-
-➡️ **Interessado(a) em colaborar, sugerir melhorias ou trocar ideias?** Fique à vontade! 💡
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-bracero/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/guilhermebracero">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&color=20BEFF" alt="Kaggle" />
+  </a>
+</div>
